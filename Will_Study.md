@@ -18,6 +18,8 @@ unsigned - 整数型\
 # Linux
 iwdで802.1xセキュリティーに接続する方法
 
+# アセンブラ言語
+
 # 実務
 アプリの作り方
  * ハイブリッドアプリ
@@ -29,3 +31,6 @@ iwdで802.1xセキュリティーに接続する方法
  * ネイティブアプリ
    - Android ← java, kotlin, android studio
    - iOS ← swift, xcode
+
+# その他
+x86_64, x86とは
