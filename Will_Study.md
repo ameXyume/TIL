@@ -12,11 +12,14 @@ sfinae\
 concept
 
 ## C++ Primer
-unsigned - 整数型\
-ポインターを初期化する時、nullptrがnullより良い理由
+unsigned - 整数型
 
 # Linux
 iwdで802.1xセキュリティーに接続する方法
+
+# エラー
+implementation definedとundefined behavior(UB)
+ * https://gall.dcinside.com/mgallery/board/view/?id=github&no=39405&page=2 - github ギャラリーに質問した時のコメント
 
 # アセンブラ言語
 
