@@ -16,10 +16,23 @@ unsigned - 整数型
 
 # Linux
 iwdで802.1xセキュリティーに接続する方法
+ * 
 
+# Vim
+:%s/a/b/g
+ * ファイル全体からaをbに書き換え
+ * 長い間使ってはいるが、gの詳しい機能が未だにも分からない。
+ 
+: norm
+ * : norm wi//
+ * : norm w2x
 # エラー
 implementation definedとundefined behavior(UB)
- * https://gall.dcinside.com/mgallery/board/view/?id=github&no=39405&page=2 - github ギャラリーに質問した時のコメント
+ * https://gall.dcinside.com/mgallery/board/view/?id=github&no=39405&page=2 \
+   \- github ギャラリーに質問した時のコメント
+
+undefined symbol, undefined reference to
+ * https://doitnow-man.tistory.com/entry/compile-compile-%EC%97%90%EB%9F%AC-%EB%B3%84-%EB%8C%80%EC%B2%98-%EB%B0%A9%EC%95%88
 
 # アセンブラ言語
 
