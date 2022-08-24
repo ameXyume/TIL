@@ -22,6 +22,7 @@ iwdで802.1xセキュリティーに接続する方法
 : norm
  * : norm wi//
  * : norm w2x
+
 # エラー
 implementation definedとundefined behavior(UB)
  * https://gall.dcinside.com/mgallery/board/view/?id=github&no=39405&page=2 \
@@ -35,7 +36,7 @@ undefined symbol, undefined reference to
 # 実務
 アプリの作り方
  * ハイブリッドアプリ
-   - html, cms, js
+   - html, css, js
    - apache cordova, phonegap
  * クロスプラットフォームアプリ
    - Flutter(C, C++) → Dart
