@@ -1,7 +1,5 @@
 #include <iostream>
 
-using std::endl;
-
 int root(unsigned int &value, bool NM){
 	 //NM = 0 -> M
 	 //NM = 1 -> N
