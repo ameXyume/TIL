@@ -1,1 +1,1 @@
-このディレクトリーでは[Baekjoon Online Judge](https://www.acmicpc.net/)に出題されている問題を解決している。\
+このディレクトリーでは[Baekjoon Online Judge](https://www.acmicpc.net/)に出題されている問題を解決している。
