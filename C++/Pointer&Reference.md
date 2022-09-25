@@ -31,7 +31,7 @@ C言語でもあったポインタとは違い、参照はC++に入りながら�
 先ず、頭括型でポインタと参照の中でどっちを優先して使うべきかの結論から話すとあるC++のリファレンスでのQ&Aはポインタと参照について次のように説明している。
 <pre>
     <code>
-<b>Use references when you can, and pointers when you have to.</b> - <a herf = "https://isocpp.org/wiki/faq/references#refs-vs-ptrs">Standard C++ </a>
+<b>Use references when you can, and pointers when you have to.</b> - <a href = "https://isocpp.org/wiki/faq/references#refs-vs-ptrs">Standard C++ </a>
 参照を使える時には参照を、使えない時にはポインタを使え。
     </code>
 </pre>
