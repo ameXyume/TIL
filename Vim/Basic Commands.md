@@ -204,7 +204,7 @@ color.add("青");
 color.add("黄");
 ```
 </details>
-詳しい説明や、オプションをここで説明するには、量が多すぎるため<a href = "https://github.com/ameXyume/TIL/blob/main/Vim/The%20Replacement%20of%20Character.md">以前作成した文書 </a> を参考\
+詳しい説明や、オプションをここで説明するには、量が多すぎるため<a href = "https://github.com/ameXyume/TIL/blob/main/Vim/The%20Replacement%20of%20Character.md">以前作成した文書 </a> を参考<br>
 クリックで入れなかった場合、ページの上端左にある<> Codeを押して、Vim → The Replacement of Character.md順で入れば良い。
 
 ### 文字列を含めた行削除
@@ -240,7 +240,7 @@ System.out.println(Id);
 System.out.println(PW);
 ```
 </details>
-詳しい説明や、オプションをここで説明するには、量が多すぎるため<a href = "https://github.com/ameXyume/TIL/blob/main/Vim/Clear%20Line.md">以前作成した文書 </a> を参考\
+詳しい説明や、オプションをここで説明するには、量が多すぎるため<a href = "https://github.com/ameXyume/TIL/blob/main/Vim/Clear%20Line.md">以前作成した文書 </a> を参考<br>
 クリックで入れなかった場合、ページの上端左にある<> Codeを押して、Vim →  Clear Line.md順で入れば良い。
 
 ### 選択した行を修正
