@@ -186,6 +186,9 @@ Visual Studio CodeのVimなど本物のVimではなく\
 |-------|----|
 |:%s/[修正前の文字列]/[修正後の文字列]/g|ファイル内にあるすべての[修正前の文字列]を[修正後の文字列]に書き換える|
 
+<details>
+<summary>クリックすると例文が表示されます。</summary>
+
 ``` java
 (例)
 List<String> list1 = new ArrayList<>();
@@ -200,6 +203,7 @@ color.add("赤");
 color.add("青");
 color.add("黄");
 ```
+</details>
 詳しい説明や、オプションをここで説明するには、量が多すぎるため<a href = "https://github.com/ameXyume/TIL/blob/main/Vim/The%20Replacement%20of%20Character.md">以前作成した文書 </a> を参考\
 クリックで入れなかった場合、ページの上端左にある<> Codeを押して、Vim → The Replacement of Character.md順で入れば良い。
 
@@ -208,6 +212,8 @@ color.add("黄");
 |コマンド|機能|
 |-------|----|
 |:%g/[文字列]/d|文字列を含む行をすべて削除|
+<details>
+<summary>クリックすると例文が表示されます。</summary>
 
 ``` java
 (例)
@@ -233,6 +239,7 @@ System.out.println(PW);
 System.out.println(Id);
 System.out.println(PW);
 ```
+</details>
 詳しい説明や、オプションをここで説明するには、量が多すぎるため<a href = "https://github.com/ameXyume/TIL/blob/main/Vim/Clear%20Line.md">以前作成した文書 </a> を参考\
 クリックで入れなかった場合、ページの上端左にある<> Codeを押して、Vim →  Clear Line.md順で入れば良い。
 
@@ -243,6 +250,8 @@ System.out.println(PW);
 |:norm [命令]|選択された行に命令を行う|
 
 まだ詳しく調べてはないが、恐らく$等の正規表現を支援すると予想している。
+<details>
+<summary>クリックすると例文が表示されます。</summary>
 
 ``` java
 (例)
@@ -268,4 +277,5 @@ list1.add("青");
 List<String> list2 = new ArrayList<>();
 list2.add("青");
 ```
+</details>
 使っているだけで、まだ勉強していないため、詳しい説明は出来ない。
