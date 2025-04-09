@@ -45,5 +45,9 @@ undefined symbol, undefined reference to
    - Android ← java, kotlin, android studio
    - iOS ← swift, xcode
 
+# 兵役中
+ * https://qiita.com/hareku/items/3383be7aee616e04b80f
+ * https://www.sigbus.info/compilerbook
+
 # その他
 x86_64, x86とは
